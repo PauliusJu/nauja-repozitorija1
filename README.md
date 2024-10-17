@@ -1,5 +1,5 @@
 C:\Users\juske                            - Absoliutus kelias
-. - Terminalo direktorijų struktūroja reiškia esamą direktotiją
+. - Terminalo direktorijų struktūroja reiškia esamą direktoriją
 .. - Nurodo vieną direktoriją aukščiau nuo esamos
 cd - (Change Directory) Komanda kuri nurodo esamos direktorijos pakeitimą
 echo "# nauja-repozitorija1" >> README.md - Sukuria failą pavadinimu README.md ir jame patalpina tekstą "#nauja-repozitorija1
